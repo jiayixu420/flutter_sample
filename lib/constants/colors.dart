@@ -1,0 +1,35 @@
+import 'package:flutter/material.dart';
+
+const Color greenColor = Color(0xff0FD59D);
+const Color turquoiseColor = Color(0xff46DBC9);
+const Color grayColor = Color(0xff4A4B50);
+const Color lightGrayColor = Color(0xff9CA1B1);
+const Color blueColor = Color(0xff4773E8);
+const Color lightBlueColor = Color(0xff80A0F3);
+const Color lightBlueColor2 = Color(0xff94AEF2);
+const Color lightBlueColor3 = Color(0xff6189F1);
+const Color royalBlueColor = Color(0xff4874E9);
+const Color lightPeriwinkleColor = Color(0xffCAD2DC);
+const Color paleCornflowerBlueColor = Color(0xffB2C7FC);
+const Color vodkaColor = Color(0xffB8C9F5);
+const Color americanSilverColor = Color(0xffC8CCD6);
+const Color cornflowerBlueColor = Color(0xff5F87F2);
+const Color ceruleanBlueColor = Color(0xff3D48C6);
+const Color lavenderBlueColor = Color(0xffBACCFC);
+const Color silverSandColor = Color(0xffC4C4C4);
+
+const Color metallicSunburstColor = Color(0xff9F8542);
+const Color yellowColor = Color(0xffFFCC4D);
+const Color oldGoldColor = Color(0xffD3BC47);
+const Color darkGoldenrodColor = Color(0xffBD8C13);
+const Color fieldDrabColor = Color(0xff775F21);
+const Color sunaryColor = Color(0xffD7B259);
+const Color dandelionColor = Color(0xffF7E070);
+const Color lightFrenchBeigeColor = Color(0xffD2B976);
+const Color blondColor = Color(0xffFFF4C0);
+const Color whiteChocolateColor = Color(0xffEBE6D0);
+const Color grulloColor = Color(0xffB1A482);
+const Color brightGrayColor = Color(0xffEAF0F8);
+const Color menuScreenColor = Color.fromARGB(255, 245, 226, 132);
+const Color orangeColor = Color(0xffE98133);
+const Color fireOpalColor = Color(0xffE74F4F);

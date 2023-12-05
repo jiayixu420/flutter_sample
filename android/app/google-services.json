@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "684167561150",
+    "project_id": "happy-nation-36b75",
+    "storage_bucket": "happy-nation-36b75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684167561150:android:20de47c59df2328bfdc3ef",
+        "android_client_info": {
+          "package_name": "biz.abweb.happynationboost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684167561150-d6ogjf97p468mch5ardm7lm35c882dr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAwqZOmp4psKG1oxxq03ysE17e3uUjy70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684167561150-d6ogjf97p468mch5ardm7lm35c882dr5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
